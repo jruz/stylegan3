@@ -1,0 +1,10 @@
+name: STYLEGAN3
+root: .
+windows:
+  - VIM:
+      layout: tiled
+      panes:
+        - nvim
+        - gs
+  - SERVER: gs
+  - GIT: gs
